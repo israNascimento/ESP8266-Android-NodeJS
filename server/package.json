@@ -1,0 +1,17 @@
+{
+  "name": "esp8266",
+  "version": "1.0.0",
+  "description": "Server to make the connection between the esp8266 and Android app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "esp8266"
+  ],
+  "author": "Israel Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
